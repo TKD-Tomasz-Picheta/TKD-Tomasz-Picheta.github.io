@@ -2,3 +2,4 @@ User-Agent: *
 Allow: /
 
 Sitemap: https://owlos.com.pl/sitemap.xml
+# Publication pipeline verification: 2026-09-30
